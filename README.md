@@ -1,4 +1,5 @@
 # Whatsapp_Chatbot
+To use this bot, you must configure the WhatsApp sandbox environment in your Twilio account.
 
 Features
 * Accepts voice notes via WhatsApp (OGG/Opus format)
